@@ -5,7 +5,7 @@
     margin-right:auto;
     margin-bottom:0;
     margin-left:auto;
-    background-color:#666;
+    background-color:#008B8B;
     border-style:groove;
     border-color: #F00;
 }
@@ -29,7 +29,7 @@
     width:500px;
     height:100px;
     float:left;
-    background-color:#FF0;
+    background-color:aqua;
 }
 #conteudo-right{
     width:500px;
